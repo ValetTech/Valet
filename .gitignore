@@ -22,3 +22,22 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+.env.test
+.env.*        
+
+# Supabase keys / secrets
+supabase/.env
+supabase/config.json
+
+# Build output
+dist
+build
+
+# Node modules
+node_modules
