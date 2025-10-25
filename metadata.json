@@ -1,0 +1,7 @@
+{
+  "name": "Valet - Parking Space Reservation",
+  "description": "An application for hosts to list their available parking spaces and for drivers to find and reserve them. This app connects hosts and drivers through listing, reservation, and approval workflows.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
